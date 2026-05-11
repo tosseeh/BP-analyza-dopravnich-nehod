@@ -1,0 +1,19 @@
+﻿rule_id,ante,base,conf,aad
+17,druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(mimo obec),4355,0.219,7.07
+4,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne),7292,0.194,6.124
+5,druh_nehody(srážka s chodcem) & smyk_nazev(ne),8333,0.187,5.873
+2,druh_nehody(srážka s chodcem),9051,0.177,5.523
+3,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>),9051,0.177,5.523
+6,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),8680,0.174,5.4
+11,druh_nehody(srážka s chodcem) & smerove_pomery(přímý úsek),6071,0.172,5.316
+10,druh_nehody(srážka s chodcem) & deleni_komunikace(dvoupruhová),6135,0.171,5.294
+8,druh_nehody(srážka s chodcem) & lokalita_nehody(v obci),7801,0.164,5.053
+7,druh_nehody(srážka s chodcem) & denni_doba(odpolední špička),3164,0.161,4.925
+1,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>),3143,0.14,4.152
+18,druh_srazky_jedoucich_vozidel(čelní) & deleni_komunikace(dvoupruhová),5546,0.135,3.963
+9,druh_nehody(srážka s chodcem) & druh_pozemni_komunikace(komunikace místní),3079,0.134,3.946
+12,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní),6359,0.124,3.564
+13,druh_srazky_jedoucich_vozidel(čelní),6419,0.124,3.554
+15,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne),5091,0.12,3.417
+14,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne),5356,0.119,3.392
+16,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla),5452,0.116,3.258

@@ -1,0 +1,359 @@
+﻿rule_id,ante,base,conf,aad
+3,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne),12433,0.947,3.25
+4,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem) & smyk_nazev(ne),13013,0.946,3.242
+1,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem),14640,0.945,3.239
+2,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>),14640,0.945,3.239
+5,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14503,0.945,3.239
+6,pricina_skupina(nedání přednosti) & druh_nehody(srážka s chodcem) & lokalita_nehody(v obci),14595,0.945,3.239
+225,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & rocni_obdobi(podzim),10639,0.941,3.222
+213,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & denni_doba(ranní špička),10133,0.939,3.213
+253,druh_nehody(srážka s chodcem) & denni_doba(ranní špička),10133,0.939,3.213
+226,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(v obci),33143,0.939,3.21
+208,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & alkohol_u_vinika_skupina(ne),35357,0.938,3.209
+221,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne),35357,0.938,3.209
+223,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),34508,0.938,3.208
+228,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & deleni_komunikace(dvoupruhová),24988,0.938,3.208
+222,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & smyk_nazev(ne),34214,0.938,3.207
+224,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & denni_doba(odpolední špička),13846,0.936,3.198
+229,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & smerove_pomery(přímý úsek),24018,0.934,3.19
+96,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & lokalita_nehody(v obci),13836,0.933,3.186
+23,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),12434,0.933,3.185
+91,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem),15272,0.933,3.185
+92,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>),15272,0.933,3.185
+95,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14749,0.933,3.184
+227,druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(komunikace místní),15547,0.932,3.183
+257,druh_nehody(srážka s chodcem) & rocni_obdobi(podzim) & lokalita_nehody(v obci),13013,0.932,3.182
+93,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne),10677,0.932,3.181
+94,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & smyk_nazev(ne),12334,0.932,3.181
+97,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & deleni_komunikace(dvoupruhová),10945,0.932,3.18
+215,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(podzim),13991,0.931,3.177
+242,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(podzim),13712,0.931,3.177
+256,druh_nehody(srážka s chodcem) & rocni_obdobi(podzim),13991,0.931,3.177
+262,druh_nehody(srážka s chodcem) & lokalita_nehody(v obci) & deleni_komunikace(dvoupruhová),30664,0.931,3.177
+219,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & deleni_komunikace(dvoupruhová),33405,0.931,3.176
+267,druh_nehody(srážka s chodcem) & deleni_komunikace(dvoupruhová),33405,0.931,3.176
+98,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s chodcem) & smerove_pomery(přímý úsek),11665,0.931,3.175
+246,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & deleni_komunikace(dvoupruhová),32634,0.931,3.175
+217,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & lokalita_nehody(v obci),44149,0.931,3.174
+244,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & lokalita_nehody(v obci),43266,0.931,3.174
+260,druh_nehody(srážka s chodcem) & lokalita_nehody(v obci),44149,0.931,3.174
+29,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),13029,0.93,3.173
+206,druh_nehody(srážka s chodcem),47524,0.93,3.173
+207,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>),47524,0.93,3.173
+210,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),46440,0.93,3.173
+239,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),46440,0.93,3.173
+36,pricina_skupina(nedání přednosti) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & lokalita_nehody(v obci),14615,0.93,3.172
+211,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & denni_doba(dopoledne),10160,0.93,3.172
+233,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & rocni_obdobi(podzim),12365,0.93,3.172
+248,druh_nehody(srážka s chodcem) & denni_doba(dopoledne),10160,0.93,3.172
+241,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(jaro),10485,0.93,3.171
+214,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(jaro),10720,0.93,3.17
+254,druh_nehody(srážka s chodcem) & rocni_obdobi(jaro),10720,0.93,3.17
+255,druh_nehody(srážka s chodcem) & rocni_obdobi(jaro) & lokalita_nehody(v obci),10021,0.929,3.169
+235,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & lokalita_nehody(v obci),38779,0.929,3.167
+251,druh_nehody(srážka s chodcem) & denni_doba(odpolední špička) & deleni_komunikace(dvoupruhová),12910,0.929,3.167
+103,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & alkohol_u_vinika_skupina(ne),10052,0.929,3.166
+237,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & deleni_komunikace(dvoupruhová),28863,0.929,3.166
+209,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & smyk_nazev(ne),41444,0.929,3.165
+230,druh_nehody(srážka s chodcem) & smyk_nazev(ne),41444,0.929,3.165
+212,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & denni_doba(odpolední špička),18251,0.928,3.165
+249,druh_nehody(srážka s chodcem) & denni_doba(odpolední špička),18251,0.928,3.165
+250,druh_nehody(srážka s chodcem) & denni_doba(odpolední špička) & lokalita_nehody(v obci),17180,0.928,3.165
+231,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),40480,0.928,3.164
+240,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & denni_doba(odpolední špička),17873,0.928,3.164
+259,druh_nehody(srážka s chodcem) & rocni_obdobi(zima) & lokalita_nehody(v obci),11974,0.928,3.164
+216,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(zima),12838,0.928,3.161
+258,druh_nehody(srážka s chodcem) & rocni_obdobi(zima),12838,0.928,3.161
+232,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & denni_doba(odpolední špička),16174,0.927,3.16
+243,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(zima),12533,0.927,3.158
+218,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & druh_pozemni_komunikace(komunikace místní),21229,0.926,3.156
+245,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & druh_pozemni_komunikace(komunikace místní),20780,0.926,3.156
+264,druh_nehody(srážka s chodcem) & druh_pozemni_komunikace(komunikace místní),21229,0.926,3.156
+263,druh_nehody(srážka s chodcem) & lokalita_nehody(v obci) & smerove_pomery(přímý úsek),30252,0.926,3.155
+14,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14671,0.926,3.154
+35,pricina_skupina(nedání přednosti) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14671,0.926,3.154
+220,druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>) & smerove_pomery(přímý úsek),32764,0.926,3.153
+261,druh_nehody(srážka s chodcem) & lokalita_nehody(v obci) & druh_pozemni_komunikace(komunikace místní),20689,0.926,3.153
+265,druh_nehody(srážka s chodcem) & druh_pozemni_komunikace(komunikace místní) & deleni_komunikace(dvoupruhová),15797,0.926,3.153
+268,druh_nehody(srážka s chodcem) & deleni_komunikace(dvoupruhová) & smerove_pomery(přímý úsek),23594,0.926,3.153
+269,druh_nehody(srážka s chodcem) & smerove_pomery(přímý úsek),32764,0.926,3.153
+247,druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & smerove_pomery(přímý úsek),31929,0.926,3.152
+236,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & druh_pozemni_komunikace(komunikace místní),18406,0.925,3.149
+234,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & rocni_obdobi(zima),11063,0.925,3.148
+238,druh_nehody(srážka s chodcem) & smyk_nazev(ne) & smerove_pomery(přímý úsek),28734,0.924,3.146
+252,druh_nehody(srážka s chodcem) & denni_doba(odpolední špička) & smerove_pomery(přímý úsek),12648,0.922,3.136
+266,druh_nehody(srážka s chodcem) & druh_pozemni_komunikace(komunikace místní) & smerove_pomery(přímý úsek),15389,0.921,3.132
+107,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & deleni_komunikace(dvoupruhová),10459,0.913,3.095
+105,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14685,0.909,3.077
+106,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & lokalita_nehody(v obci),13920,0.909,3.076
+101,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem),14905,0.908,3.075
+102,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & druh_srazky_jedoucich_vozidel(<NA>),14905,0.908,3.075
+108,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & smerove_pomery(přímý úsek),11406,0.906,3.065
+104,pricina_skupina(nezaviněná řidičem) & druh_nehody(srážka s chodcem) & smyk_nazev(ne),14016,0.906,3.064
+112,pricina_skupina(nezaviněná řidičem) & alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),10765,0.886,2.973
+113,pricina_skupina(nezaviněná řidičem) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(v obci),10378,0.872,2.91
+109,pricina_skupina(nezaviněná řidičem) & druh_srazky_jedoucich_vozidel(<NA>) & alkohol_u_vinika_skupina(ne),10999,0.865,2.882
+110,pricina_skupina(nezaviněná řidičem) & alkohol_u_vinika_skupina(ne),11103,0.854,2.833
+111,pricina_skupina(nezaviněná řidičem) & alkohol_u_vinika_skupina(ne) & smyk_nazev(ne),10711,0.854,2.833
+12,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>) & alkohol_u_vinika_skupina(ne),14339,0.831,2.727
+15,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>) & lokalita_nehody(v obci),17357,0.827,2.711
+16,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>) & deleni_komunikace(dvoupruhová),11737,0.816,2.66
+13,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>) & smyk_nazev(ne),15947,0.798,2.578
+11,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(<NA>),17853,0.795,2.566
+299,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec),13186,0.765,2.43
+316,druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),13408,0.755,2.389
+275,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(mimo obec),14718,0.743,2.334
+315,druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(mimo obec),14741,0.742,2.328
+305,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne) & lokalita_nehody(mimo obec),10509,0.74,2.319
+153,druh_nehody(havárie) & smyk_nazev(ne) & rocni_obdobi(léto),15581,0.733,2.289
+310,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & lokalita_nehody(mimo obec),12723,0.733,2.287
+156,druh_nehody(havárie) & smyk_nazev(ne) & druh_pozemni_komunikace(komunikace místní),11248,0.731,2.281
+86,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & rocni_obdobi(léto),11547,0.724,2.25
+183,druh_nehody(havárie) & rocni_obdobi(léto) & deleni_komunikace(dvoupruhová),18046,0.722,2.237
+279,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihočeský),10318,0.721,2.233
+152,druh_nehody(havárie) & smyk_nazev(ne) & denni_doba(odpolední špička),13680,0.716,2.212
+164,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(léto),20719,0.715,2.206
+124,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(léto),21128,0.712,2.195
+181,druh_nehody(havárie) & rocni_obdobi(léto),21128,0.712,2.195
+139,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & rocni_obdobi(léto),14375,0.708,2.175
+177,druh_nehody(havárie) & denni_doba(odpolední špička) & deleni_komunikace(dvoupruhová),17313,0.707,2.171
+168,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & druh_pozemni_komunikace(komunikace místní),13315,0.705,2.164
+128,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & druh_pozemni_komunikace(komunikace místní),13495,0.703,2.154
+195,druh_nehody(havárie) & druh_pozemni_komunikace(komunikace místní),13495,0.703,2.154
+161,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & denni_doba(odpolední špička),19707,0.702,2.151
+196,druh_nehody(havárie) & druh_pozemni_komunikace(komunikace místní) & deleni_komunikace(dvoupruhová),10444,0.701,2.145
+121,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & denni_doba(odpolední špička),20089,0.698,2.132
+175,druh_nehody(havárie) & denni_doba(odpolední špička),20089,0.698,2.132
+192,druh_nehody(havárie) & lokalita_nehody(v obci) & druh_pozemni_komunikace(komunikace místní),10033,0.697,2.126
+88,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & lokalita_nehody(v obci),13788,0.696,2.123
+155,druh_nehody(havárie) & smyk_nazev(ne) & lokalita_nehody(v obci),17244,0.696,2.122
+194,druh_nehody(havárie) & lokalita_nehody(v obci) & smerove_pomery(přímý úsek),12114,0.691,2.101
+138,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & denni_doba(odpolední špička),14826,0.688,2.086
+182,druh_nehody(havárie) & rocni_obdobi(léto) & lokalita_nehody(mimo obec),11608,0.673,2.02
+193,druh_nehody(havárie) & lokalita_nehody(v obci) & deleni_komunikace(dvoupruhová),17432,0.669,2.003
+314,druh_srazky_jedoucich_vozidel(čelní) & denni_doba(odpolední špička) & deleni_komunikace(dvoupruhová),10713,0.669,1.999
+301,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & deleni_komunikace(dvoupruhová),23778,0.668,1.996
+162,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & den_nazev(sobota),10030,0.665,1.984
+176,druh_nehody(havárie) & denni_doba(odpolední špička) & lokalita_nehody(mimo obec),11739,0.665,1.982
+167,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & lokalita_nehody(v obci),20908,0.664,1.979
+122,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & den_nazev(sobota),10151,0.663,1.976
+178,druh_nehody(havárie) & den_nazev(sobota),10151,0.663,1.976
+127,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & lokalita_nehody(v obci),21370,0.663,1.973
+191,druh_nehody(havárie) & lokalita_nehody(v obci),21370,0.663,1.973
+62,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & smyk_nazev(ne),11612,0.657,1.946
+141,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(v obci),12790,0.65,1.916
+277,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & deleni_komunikace(dvoupruhová),26571,0.65,1.916
+298,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & denni_doba(odpolední špička),11316,0.649,1.909
+319,druh_srazky_jedoucich_vozidel(čelní) & deleni_komunikace(dvoupruhová),26681,0.649,1.909
+307,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne) & deleni_komunikace(dvoupruhová),20952,0.642,1.879
+157,druh_nehody(havárie) & smyk_nazev(ne) & deleni_komunikace(dvoupruhová),29588,0.641,1.877
+312,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & deleni_komunikace(dvoupruhová),23917,0.641,1.876
+160,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & denni_doba(dopoledne),11282,0.639,1.868
+180,druh_nehody(havárie) & rocni_obdobi(jaro) & deleni_komunikace(dvoupruhová),10394,0.638,1.861
+170,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & druh_pozemni_komunikace(silnice III. třídy),13813,0.638,1.86
+151,druh_nehody(havárie) & smyk_nazev(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),34262,0.637,1.858
+90,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & smerove_pomery(přímý úsek),16344,0.637,1.856
+84,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & smyk_nazev(ne),22402,0.636,1.854
+158,druh_nehody(havárie) & smyk_nazev(ne) & smerove_pomery(přímý úsek),18486,0.636,1.854
+120,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & denni_doba(dopoledne),11501,0.636,1.853
+174,druh_nehody(havárie) & denni_doba(dopoledne),11501,0.636,1.853
+278,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihomoravský),14961,0.635,1.849
+130,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & druh_pozemni_komunikace(silnice III. třídy),14012,0.635,1.847
+199,druh_nehody(havárie) & druh_pozemni_komunikace(silnice III. třídy),14012,0.635,1.847
+274,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & denni_doba(odpolední špička),12570,0.635,1.847
+118,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & smyk_nazev(ne),34916,0.634,1.845
+150,druh_nehody(havárie) & smyk_nazev(ne),34916,0.634,1.845
+200,druh_nehody(havárie) & druh_pozemni_komunikace(silnice III. třídy) & deleni_komunikace(dvoupruhová),13291,0.634,1.842
+271,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne),28043,0.632,1.835
+202,druh_nehody(havárie) & deleni_komunikace(dvoupruhová) & smerove_pomery(přímý úsek),18412,0.632,1.833
+313,druh_srazky_jedoucich_vozidel(čelní) & denni_doba(odpolední špička),12647,0.631,1.832
+163,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(jaro),11900,0.63,1.826
+65,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & deleni_komunikace(dvoupruhová),23538,0.629,1.823
+142,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice II. třídy),11434,0.629,1.822
+89,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & deleni_komunikace(dvoupruhová),21488,0.629,1.82
+295,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne),28206,0.628,1.818
+149,druh_nehody(havárie) & smyk_nazev(ano) & deleni_komunikace(dvoupruhová),16363,0.628,1.817
+123,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(jaro),12119,0.628,1.816
+179,druh_nehody(havárie) & rocni_obdobi(jaro),12119,0.628,1.816
+85,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),25276,0.627,1.814
+171,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & deleni_komunikace(dvoupruhová),45246,0.627,1.811
+143,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & deleni_komunikace(dvoupruhová),32989,0.626,1.81
+26,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice II. třídy),15608,0.626,1.806
+81,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie),25645,0.624,1.799
+82,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>),25645,0.624,1.799
+131,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & deleni_komunikace(dvoupruhová),45996,0.624,1.799
+201,druh_nehody(havárie) & deleni_komunikace(dvoupruhová),45996,0.624,1.799
+60,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & alkohol_u_vinika_skupina(ne),21350,0.623,1.794
+145,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & smerove_pomery(zatáčka),12716,0.623,1.793
+66,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & smerove_pomery(zatáčka),11512,0.622,1.791
+309,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & denni_doba(odpolední špička),11247,0.622,1.789
+297,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(2 vozidla),25319,0.62,1.783
+304,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne) & denni_doba(odpolední špička),10345,0.62,1.781
+169,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & druh_pozemni_komunikace(silnice II. třídy),14413,0.62,1.78
+135,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & smyk_nazev(ano),15477,0.619,1.778
+337,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihočeský) & lokalita_nehody(mimo obec),11181,0.618,1.771
+129,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & druh_pozemni_komunikace(silnice II. třídy),14662,0.617,1.77
+197,druh_nehody(havárie) & druh_pozemni_komunikace(silnice II. třídy),14662,0.617,1.77
+283,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & smyk_nazev(ne) & kraj_nazev(Jihočeský),10319,0.617,1.766
+296,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & smyk_nazev(ne),22507,0.617,1.766
+119,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),52378,0.616,1.764
+159,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),52378,0.616,1.764
+198,druh_nehody(havárie) & druh_pozemni_komunikace(silnice II. třídy) & deleni_komunikace(dvoupruhová),14025,0.616,1.762
+63,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),26327,0.615,1.759
+58,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie),26461,0.615,1.758
+59,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>),26461,0.615,1.758
+173,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & smerove_pomery(zatáčka),16097,0.614,1.756
+203,druh_nehody(havárie) & deleni_komunikace(dvoupruhová) & smerove_pomery(zatáčka),14786,0.614,1.756
+114,druh_nehody(havárie),53251,0.614,1.754
+115,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>),53251,0.614,1.754
+172,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & smerove_pomery(přímý úsek),22460,0.614,1.754
+270,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní),31467,0.614,1.752
+147,druh_nehody(havárie) & smyk_nazev(ano) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),18102,0.613,1.75
+117,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & smyk_nazev(ano),18283,0.612,1.747
+146,druh_nehody(havárie) & smyk_nazev(ano),18283,0.612,1.747
+137,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),37290,0.612,1.745
+116,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & alkohol_u_vinika_skupina(ne),37829,0.612,1.744
+134,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne),37829,0.612,1.744
+133,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & smerove_pomery(zatáčka),16256,0.612,1.743
+205,druh_nehody(havárie) & smerove_pomery(zatáčka),16256,0.612,1.743
+290,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & kraj_nazev(Jihočeský),11461,0.612,1.743
+328,alkohol_u_vinika_skupina(ne) & denni_doba(odpolední špička) & kraj_nazev(Jihomoravský),10965,0.612,1.743
+64,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & lokalita_nehody(mimo obec),19472,0.611,1.742
+132,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & smerove_pomery(přímý úsek),22815,0.611,1.742
+204,druh_nehody(havárie) & smerove_pomery(přímý úsek),22815,0.611,1.742
+333,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihomoravský) & lokalita_nehody(mimo obec),11133,0.611,1.741
+52,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice II. třídy) & deleni_komunikace(dvoupruhová),15013,0.611,1.74
+294,druh_srazky_jedoucich_vozidel(čelní),31681,0.611,1.739
+190,druh_nehody(havárie) & lokalita_nehody(mimo obec) & smerove_pomery(zatáčka),12079,0.61,1.736
+148,druh_nehody(havárie) & smyk_nazev(ano) & lokalita_nehody(mimo obec),14182,0.608,1.729
+136,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & smyk_nazev(ne),22350,0.608,1.726
+32,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & druh_pozemni_komunikace(silnice II. třídy),16529,0.607,1.724
+51,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice II. třídy),17024,0.607,1.723
+273,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla),28217,0.605,1.715
+187,druh_nehody(havárie) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice II. třídy),11178,0.604,1.707
+61,pricina_skupina(nepřiměřená rychlost) & druh_nehody(havárie) & smyk_nazev(ano),14842,0.602,1.702
+272,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne),25212,0.602,1.701
+308,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla),28375,0.602,1.701
+285,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & kraj_nazev(Jihočeský),10089,0.602,1.698
+185,druh_nehody(havárie) & rocni_obdobi(podzim) & deleni_komunikace(dvoupruhová),10916,0.601,1.695
+46,pricina_skupina(nedání přednosti) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),13329,0.6,1.69
+188,druh_nehody(havárie) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),28564,0.599,1.688
+302,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne),25415,0.599,1.687
+47,pricina_skupina(nedání přednosti) & lokalita_nehody(v obci) & druh_pozemni_komunikace(silnice II. třídy),11704,0.598,1.683
+83,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & alkohol_u_vinika_skupina(ne),16024,0.596,1.676
+140,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec),25039,0.594,1.664
+99,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní),10503,0.593,1.659
+165,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & rocni_obdobi(podzim),12396,0.593,1.658
+100,pricina_skupina(nesprávný způsob jízdy) & druh_srazky_jedoucich_vozidel(čelní),10566,0.591,1.65
+125,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & rocni_obdobi(podzim),12588,0.59,1.646
+184,druh_nehody(havárie) & rocni_obdobi(podzim),12588,0.59,1.646
+303,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne) & pocet_zucastnenych_vozidel_skupina(2 vozidla),22673,0.59,1.646
+20,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne),10848,0.59,1.645
+7,pricina_skupina(nedání přednosti) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní),11487,0.588,1.639
+27,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice III. třídy),10109,0.588,1.639
+335,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihomoravský) & deleni_komunikace(dvoupruhová),21277,0.588,1.639
+166,druh_nehody(havárie) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & lokalita_nehody(mimo obec),31470,0.588,1.637
+126,druh_nehody(havárie) & druh_srazky_jedoucich_vozidel(<NA>) & lokalita_nehody(mimo obec),31881,0.585,1.624
+186,druh_nehody(havárie) & lokalita_nehody(mimo obec),31881,0.585,1.624
+154,druh_nehody(havárie) & smyk_nazev(ne) & lokalita_nehody(mimo obec),17672,0.584,1.618
+144,druh_nehody(havárie) & alkohol_u_vinika_skupina(ne) & smerove_pomery(přímý úsek),14414,0.583,1.617
+19,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(čelní),11580,0.583,1.615
+21,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne),11399,0.583,1.613
+22,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla),10776,0.582,1.609
+43,pricina_skupina(nedání přednosti) & rocni_obdobi(léto) & deleni_komunikace(dvoupruhová),18218,0.582,1.609
+24,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec),15005,0.581,1.606
+33,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & druh_pozemni_komunikace(silnice III. třídy),10809,0.577,1.588
+54,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice III. třídy) & deleni_komunikace(dvoupruhová),10184,0.577,1.588
+53,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice III. třídy),11127,0.576,1.583
+10,pricina_skupina(nedání přednosti) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_pozemni_komunikace(silnice II. třídy),13849,0.574,1.575
+50,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice I. třídy) & deleni_komunikace(dvoupruhová),11088,0.574,1.575
+289,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & kraj_nazev(Jihomoravský) & deleni_komunikace(dvoupruhová),12533,0.574,1.574
+351,smyk_nazev(ano) & lokalita_nehody(mimo obec) & smerove_pomery(přímý úsek po projetí zatáčkou (do vzdálenosti cca 100 m od optického konce zatáčky)),11150,0.573,1.569
+38,pricina_skupina(nedání přednosti) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & druh_pozemni_komunikace(silnice II. třídy),13609,0.57,1.557
+327,alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & kraj_nazev(Jihomoravský),14252,0.568,1.549
+318,druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(v obci) & deleni_komunikace(dvoupruhová),13273,0.567,1.545
+80,pricina_skupina(nepřiměřená rychlost) & lokalita_nehody(mimo obec) & smerove_pomery(přímý úsek po projetí zatáčkou (do vzdálenosti cca 100 m od optického konce zatáčky)),14851,0.567,1.544
+338,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihočeský) & deleni_komunikace(dvoupruhová),17098,0.567,1.544
+8,pricina_skupina(nedání přednosti) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & lokalita_nehody(mimo obec),15252,0.566,1.539
+340,alkohol_u_vinika_skupina(ne) & kraj_nazev(Vysočina) & deleni_komunikace(dvoupruhová),13052,0.565,1.536
+56,pricina_skupina(nedání přednosti) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka průsečná - čtyřramenná),22263,0.56,1.514
+348,smyk_nazev(ano) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice II. třídy),14033,0.56,1.513
+30,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & lokalita_nehody(mimo obec),15631,0.558,1.505
+25,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice I. třídy),14075,0.558,1.502
+39,pricina_skupina(nedání přednosti) & denni_doba(odpolední špička) & deleni_komunikace(dvoupruhová),24040,0.558,1.502
+77,pricina_skupina(nepřiměřená rychlost) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice II. třídy),19035,0.558,1.501
+87,pricina_skupina(nesprávný způsob jízdy) & druh_nehody(havárie) & lokalita_nehody(mimo obec),11857,0.557,1.498
+336,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihočeský),20903,0.557,1.497
+325,alkohol_u_vinika_skupina(ne) & smyk_nazev(ne) & kraj_nazev(Jihočeský),16505,0.556,1.494
+324,alkohol_u_vinika_skupina(ne) & smyk_nazev(ne) & kraj_nazev(Jihomoravský),23870,0.554,1.484
+358,kraj_nazev(Jihočeský) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),11950,0.553,1.481
+282,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & smyk_nazev(ne) & kraj_nazev(Jihomoravský),15633,0.552,1.478
+332,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihomoravský),28307,0.551,1.474
+45,pricina_skupina(nedání přednosti) & lokalita_nehody(mimo obec),16017,0.551,1.472
+37,pricina_skupina(nedání přednosti) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & lokalita_nehody(mimo obec),14704,0.548,1.459
+287,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & kraj_nazev(Jihomoravský),16986,0.548,1.459
+330,alkohol_u_vinika_skupina(ne) & rocni_obdobi(léto) & druh_pozemni_komunikace(silnice II. třídy),19291,0.547,1.455
+349,smyk_nazev(ano) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice III. třídy),10602,0.544,1.44
+18,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(boční) & druh_pozemni_komunikace(silnice II. třídy),10772,0.544,1.439
+300,druh_srazky_jedoucich_vozidel(čelní) & alkohol_u_vinika_skupina(ne) & lokalita_nehody(v obci),15020,0.543,1.437
+347,smyk_nazev(ano) & rocni_obdobi(léto) & deleni_komunikace(dvoupruhová),12102,0.543,1.436
+189,druh_nehody(havárie) & lokalita_nehody(mimo obec) & smerove_pomery(přímý úsek),10701,0.54,1.424
+284,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & kraj_nazev(Jihomoravský),14713,0.54,1.424
+28,pricina_skupina(nedání přednosti) & alkohol_u_vinika_skupina(ne) & deleni_komunikace(dvoupruhová),53229,0.54,1.422
+343,alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec) & smerove_pomery(přímý úsek po projetí zatáčkou (do vzdálenosti cca 100 m od optického konce zatáčky)),17163,0.539,1.42
+357,kraj_nazev(Jihočeský) & lokalita_nehody(mimo obec),13724,0.539,1.419
+67,pricina_skupina(nepřiměřená rychlost) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & lokalita_nehody(mimo obec),12754,0.539,1.416
+44,pricina_skupina(nedání přednosti) & rocni_obdobi(podzim) & deleni_komunikace(dvoupruhová),16515,0.537,1.409
+329,alkohol_u_vinika_skupina(ne) & denni_doba(odpolední špička) & druh_pozemni_komunikace(silnice II. třídy),23927,0.537,1.409
+342,alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec) & smerove_pomery(křižovatka styková - tříramenná),10224,0.537,1.407
+17,pricina_skupina(nedání přednosti) & druh_srazky_jedoucich_vozidel(boční) & lokalita_nehody(mimo obec),12083,0.536,1.406
+288,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & kraj_nazev(Jihomoravský) & lokalita_nehody(v obci),10637,0.536,1.406
+78,pricina_skupina(nepřiměřená rychlost) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice III. třídy),15253,0.536,1.404
+31,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & druh_pozemni_komunikace(silnice I. třídy),14875,0.535,1.398
+320,alkohol_u_vinika_skupina(ano – vysoká hladina) & smyk_nazev(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),14080,0.533,1.392
+49,pricina_skupina(nedání přednosti) & druh_pozemni_komunikace(silnice I. třídy),15336,0.532,1.387
+57,pricina_skupina(nedání přednosti) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka styková - tříramenná),20225,0.532,1.386
+276,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(v obci),16749,0.532,1.386
+326,alkohol_u_vinika_skupina(ne) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & kraj_nazev(Jihomoravský),11787,0.531,1.38
+317,druh_srazky_jedoucich_vozidel(čelní) & lokalita_nehody(v obci),16940,0.529,1.373
+341,alkohol_u_vinika_skupina(ne) & lokalita_nehody(mimo obec) & druh_pozemni_komunikace(silnice II. třídy),34431,0.529,1.373
+55,pricina_skupina(nedání přednosti) & deleni_komunikace(dvoupruhová),58943,0.529,1.372
+286,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & rocni_obdobi(léto) & druh_pozemni_komunikace(silnice II. třídy),11375,0.529,1.371
+322,alkohol_u_vinika_skupina(ano – vysoká hladina) & pocet_zucastnenych_vozidel_skupina(1 vozidlo) & deleni_komunikace(dvoupruhová),14307,0.529,1.371
+306,druh_srazky_jedoucich_vozidel(čelní) & smyk_nazev(ne) & lokalita_nehody(v obci),14906,0.528,1.369
+34,pricina_skupina(nedání přednosti) & smyk_nazev(ne) & deleni_komunikace(dvoupruhová),56987,0.527,1.365
+41,pricina_skupina(nedání přednosti) & den_nazev(pátek) & deleni_komunikace(dvoupruhová),10294,0.527,1.365
+311,druh_srazky_jedoucich_vozidel(čelní) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & lokalita_nehody(v obci),15652,0.526,1.359
+321,alkohol_u_vinika_skupina(ano – vysoká hladina) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),17322,0.524,1.352
+75,pricina_skupina(nepřiměřená rychlost) & rocni_obdobi(léto) & deleni_komunikace(dvoupruhová),19846,0.524,1.351
+292,druh_srazky_jedoucich_vozidel(<NA>) & alkohol_u_vinika_skupina(ano – vysoká hladina) & pocet_zucastnenych_vozidel_skupina(1 vozidlo),17310,0.524,1.351
+350,smyk_nazev(ano) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),33862,0.523,1.348
+331,alkohol_u_vinika_skupina(ne) & rocni_obdobi(léto) & druh_pozemni_komunikace(silnice III. třídy),14406,0.521,1.337
+281,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & smyk_nazev(ano) & deleni_komunikace(dvoupruhová),11352,0.52,1.334
+74,pricina_skupina(nepřiměřená rychlost) & rocni_obdobi(léto) & lokalita_nehody(mimo obec),15346,0.52,1.332
+334,alkohol_u_vinika_skupina(ne) & kraj_nazev(Jihomoravský) & lokalita_nehody(v obci),17174,0.519,1.326
+76,pricina_skupina(nepřiměřená rychlost) & rocni_obdobi(léto) & smerove_pomery(zatáčka),10208,0.518,1.325
+71,pricina_skupina(nepřiměřená rychlost) & smyk_nazev(ne) & druh_pozemni_komunikace(silnice II. třídy),10100,0.518,1.324
+346,smyk_nazev(ano) & rocni_obdobi(léto) & lokalita_nehody(mimo obec),10135,0.517,1.321
+356,denni_doba(odpolední špička) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka průsečná - čtyřramenná),11739,0.517,1.321
+79,pricina_skupina(nepřiměřená rychlost) & lokalita_nehody(mimo obec) & deleni_komunikace(dvoupruhová),46918,0.517,1.319
+354,smyk_nazev(ne) & lokalita_nehody(mimo obec) & smerove_pomery(křižovatka styková - tříramenná),10103,0.516,1.313
+40,pricina_skupina(nedání přednosti) & denni_doba(ranní špička) & deleni_komunikace(dvoupruhová),13011,0.515,1.308
+339,alkohol_u_vinika_skupina(ne) & kraj_nazev(Plzeňský) & deleni_komunikace(dvoupruhová),14404,0.515,1.308
+42,pricina_skupina(nedání přednosti) & rocni_obdobi(jaro) & deleni_komunikace(dvoupruhová),13870,0.513,1.303
+280,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice II. třídy),31155,0.512,1.299
+73,pricina_skupina(nepřiměřená rychlost) & denni_doba(odpolední špička) & lokalita_nehody(mimo obec),18462,0.512,1.297
+344,alkohol_u_vinika_skupina(ne) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka průsečná - čtyřramenná),26688,0.512,1.295
+48,pricina_skupina(nedání přednosti) & lokalita_nehody(v obci) & deleni_komunikace(dvoupruhová),45614,0.511,1.293
+69,pricina_skupina(nepřiměřená rychlost) & alkohol_u_vinika_skupina(ne) & druh_pozemni_komunikace(silnice II. třídy),20380,0.511,1.292
+68,pricina_skupina(nepřiměřená rychlost) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & deleni_komunikace(dvoupruhová),16137,0.51,1.289
+355,smyk_nazev(ne) & druh_pozemni_komunikace(silnice II. třídy) & smerove_pomery(křižovatka styková - tříramenná),10246,0.508,1.277
+323,alkohol_u_vinika_skupina(ne) & smyk_nazev(ano) & druh_pozemni_komunikace(silnice II. třídy),15015,0.507,1.273
+70,pricina_skupina(nepřiměřená rychlost) & smyk_nazev(ne) & rocni_obdobi(léto),13040,0.506,1.269
+345,smyk_nazev(ano) & denni_doba(odpolední špička) & lokalita_nehody(mimo obec),12948,0.504,1.261
+9,pricina_skupina(nedání přednosti) & druh_nehody(srážka s jedoucím nekolejovým vozidlem) & druh_pozemni_komunikace(silnice I. třídy),12792,0.504,1.26
+72,pricina_skupina(nepřiměřená rychlost) & pocet_zucastnenych_vozidel_skupina(2 vozidla) & lokalita_nehody(mimo obec),11754,0.502,1.254
+291,druh_nehody(srážka s jedoucím nekolejovým vozidlem) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka průsečná - čtyřramenná),24000,0.502,1.254
+353,smyk_nazev(ano) & deleni_komunikace(dvoupruhová) & smerove_pomery(přímý úsek po projetí zatáčkou (do vzdálenosti cca 100 m od optického konce zatáčky)),12908,0.502,1.252
+293,druh_srazky_jedoucich_vozidel(boční) & deleni_komunikace(dvoupruhová) & smerove_pomery(křižovatka průsečná - čtyřramenná),18607,0.501,1.245
+352,smyk_nazev(ano) & druh_pozemni_komunikace(silnice II. třídy) & deleni_komunikace(dvoupruhová),16982,0.5,1.243
